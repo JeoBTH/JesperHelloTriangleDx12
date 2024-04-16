@@ -5,9 +5,9 @@ using namespace std;
 
 int CALLBACK WinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nCmdShow)
 {
+	MSG msg = { 0 };
 	Window window(800, 600); // Create a desktop window
 
-	MSG msg = { 0 };
 
 	while (!(GetKeyState(VK_ESCAPE) & 0x8000) && msg.message != WM_QUIT)
 	{
