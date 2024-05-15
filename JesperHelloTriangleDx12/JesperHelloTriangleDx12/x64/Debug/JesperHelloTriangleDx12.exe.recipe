@@ -5,7 +5,11 @@
       <FullPath>C:\Users\JEO\Desktop\Dokument\BTH\DV2551 3D3\Directx12\JesperHelloTriangleDx12\JesperHelloTriangleDx12\x64\Debug\JesperHelloTriangleDx12.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
-  <ContentFiles />
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\JEO\Desktop\Dokument\BTH\DV2551 3D3\Directx12\JesperHelloTriangleDx12\JesperHelloTriangleDx12\x64\Debug\Shaders.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
   <SatelliteDlls />
   <NonRecipeFileRefs />
 </Project>

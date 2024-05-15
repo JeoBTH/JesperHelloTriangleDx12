@@ -1,4 +1,5 @@
-﻿  Renderer.cpp
+﻿  Main.cpp
+  Renderer.cpp
   Triangle.cpp
   Generating Code...
   JesperHelloTriangleDx12.vcxproj -> C:\Users\JEO\Desktop\Dokument\BTH\DV2551 3D3\Directx12\JesperHelloTriangleDx12\JesperHelloTriangleDx12\x64\Debug\JesperHelloTriangleDx12.exe

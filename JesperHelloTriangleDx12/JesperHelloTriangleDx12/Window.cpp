@@ -24,6 +24,8 @@ Window::Window(int width, int height)
 
 	//Create Window
 	this->m_handle = CreateWindow("DX12Tutorial", "DX12 Tutorial", WS_POPUP | WS_CAPTION | WS_SYSMENU | WS_VISIBLE, 100, 100, width, height, nullptr, nullptr, nullptr, nullptr);
+
+
 }
 
 Window::~Window()
